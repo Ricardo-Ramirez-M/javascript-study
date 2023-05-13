@@ -1,4 +1,4 @@
-export { inicializarJuego } from './inicializar-juego.js';
+//export { inicializarJuego } from './inicializar-juego.js';
 export { acumularPuntos } from './acumular-puntos.js';
 export { crearCarta } from './crear-carta.js';
 export { crearDeck } from './crear-deck.js';
